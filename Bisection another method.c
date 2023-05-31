@@ -1,4 +1,4 @@
-//Bisection Method to find the root of a non – linear equation correct upto 3 decimal places
+//Bisection Method to find the root of a non â€“ linear equation correct upto 3 decimal places
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
