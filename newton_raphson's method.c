@@ -1,4 +1,4 @@
-//program  NR Method to find the root of a non – linear equation.
+//program  NR Method to find the root of a non â€“ linear equation.
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
