@@ -1,4 +1,4 @@
-/progarm for Secant Method to find the root of a non – linear equation correct upto 3 
+/progarm for Secant Method to find the root of a non â€“ linear equation correct upto 3 
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
